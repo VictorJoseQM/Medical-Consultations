@@ -4,7 +4,7 @@
 
 # Sistema de Consultas Médicas - Arquitetura Hexagonal
 
-Este projeto foi desenvolvido como parte da disciplina de **Padrões de Software e Refatoração** (Sistemas de Informação - IFMA).
+Este projeto foi desenvolvido como parte da disciplina de **Padrões de Software** (Sistemas de Informação - IFMA).
 
 O objetivo é implementar um módulo de gestão de Prontuários Médicos utilizando **Arquitetura Hexagonal (Ports and Adapters)**, garantindo o desacoplamento entre as regras de negócio (Domínio) e tecnologias externas (Frameworks, Banco de Dados e APIs).
 
